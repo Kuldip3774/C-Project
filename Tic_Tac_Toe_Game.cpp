@@ -119,5 +119,5 @@ int main(){
     if(draw==true) cout<<"\t\tGAME DRAWN !!"<<endl;
     else if(turn=='X') cout<<"\t\tPlayer2 [O] Wins !!"<<endl;
     else if(turn=='O') cout<<"\t\tPlayer1 [X] Wins !!"<<endl;
-    cout<<"\t\tDevloped By : Kuldip Singh"<<endl<<endl;
+    cout<<"\t\tDeveloped By : Kuldip Singh"<<endl<<endl;
 }
